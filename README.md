@@ -1,6 +1,23 @@
 # Budget Tracker Starter Code
+This app allows user to track their expenses over time.  Built as a PWA, the user does not need an internet connection to log their expenses and the data will automatically load to the server after their browser/app regains connection.
 
+### Deployed Repo: https://github.com/noreaster24/budget-tracker
 
+## Developer's-Profile:
+* GitHub: [noreaster24](https://github.com/noreaster24)
+
+## Installation
+* Clone the repository
+* Run  `NPM Install` or `NPM i`
+* Run  `NPM Start`
+* AtlasDB and Heroku were used for this application.  
+
+## Questions
+Please contact me if you have any questions or concerns:
+* Joe Porrazzo: [josephporrazzo@gmail.com](mailto:josephporrazzo@gmail.com)
+
+## License
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ### User Story
 AS AN avid traveler
